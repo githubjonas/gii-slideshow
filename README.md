@@ -1,3 +1,5 @@
+This repository is not really maintained, but kept here for history and fun.
+
 gii-slideshow
 =============
 
